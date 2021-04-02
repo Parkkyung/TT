@@ -1,0 +1,23 @@
+body {
+    margin:0px;
+    
+}
+#header {
+    margin-left:17%;
+    background-color: white;
+}
+#body {
+}
+#section {
+    margin-left:15%;
+    float:left;
+    width:70%;
+    margin-right:15%;
+}
+.H {
+    width:32%;
+    float:left;
+    margin-right:10%;
+    color:black;
+    background-color:white;
+}
